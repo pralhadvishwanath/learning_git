@@ -147,3 +147,16 @@ Initialized empty Git repository in /home/<user>/repository_name/.git/ </br>
 ```
 git status
 ```
+  
+### 
+
+dgtxdg
+cfyfghfhf
+
+dggfdf
+
+```
+systemctl status httpd
+```
+
+
