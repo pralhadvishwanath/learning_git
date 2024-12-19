@@ -142,7 +142,7 @@ Initialized empty Git repository in /home/<user>/repository_name/.git/ </br>
 
 ### Step-3.3 Check the `Git repository status`
 
-- Now, use a `git status` command to show the status of the working tree:
+- Now, use a `git status` command to show the status of the working tree: 
 
 ```
 git status
